@@ -63,4 +63,3 @@ the same table.
 
 # KHAN ACADEMY ASSIGNMENT:
 # https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5094336189890560/embed.js?editor=yes&buttons=yes&author=yes&embed=yes
-# https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5094336189890560
