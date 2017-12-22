@@ -60,3 +60,7 @@ relational database must always have one and only one primary key.
 # What is a foreign key?
 In the context of relational databases, a foreign key is a field in one table that uniquely identifies a row of another table or 
 the same table.
+
+# KHAN ACADEMY ASSIGNMENT:
+# https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5094336189890560/embed.js?editor=yes&buttons=yes&author=yes&embed=yes
+# https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5094336189890560
